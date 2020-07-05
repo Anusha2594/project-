@@ -9,7 +9,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
-  color: #C1343F;
+  color: #33c93b;
 }
 
 h1 {
@@ -21,13 +21,13 @@ h2 {
 }
 
 a {
-  color: #DD4F53;
+  color: #33c93b;
 }
 
 header .jumbotron {
   height: 40vh;
   margin-bottom: 0;
-  background: url(../images/misc/background.jpg) no-repeat 100% 5%;
+  background: url(../images/misc/book.jpg) no-repeat 100% 5%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
