@@ -1,4 +1,4 @@
 
-resource "docker_image" "nginx_image" {
-  name = "anushajup/project-starter"
+resource "docker_image" "image_id" {
+  name = "${var.image_name}"
 }
