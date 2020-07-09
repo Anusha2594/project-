@@ -1,4 +1,4 @@
-# Building a website with Node.js and Express
+# Blog with Node js 
 
 This repository consists of repositories of Node js application along with Docker, Terraform, Jenkins and Kuberenetes yaml files for deployment.
 
